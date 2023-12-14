@@ -4,9 +4,10 @@ import { Application } from './application/application';
 
 function App() {
   return (
-    <div className="App">
-      <Application/>
-    </div>
+   <>
+    <Application/>
+    Hello
+   </>
   );
 }
 
