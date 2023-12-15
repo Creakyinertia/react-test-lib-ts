@@ -10,6 +10,7 @@ function App() {
       <Application/>
       <Skills skills={skills}/>
     </div>
+
   );
 }
 
