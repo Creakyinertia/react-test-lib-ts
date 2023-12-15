@@ -11,6 +11,9 @@ test("Render elements",()=>{
     const placeholderElement = screen.getByPlaceholderText("name");
     expect(placeholderElement).toBeInTheDocument();
 
+    const datatestElement = screen.getByTestId("custom");
+    expect(datatestElement).toBeInTheDocument();
+
     const DescElement = screen.getByRole("textbox",
     {name:'description'}
     );
