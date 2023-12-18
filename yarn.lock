@@ -1865,10 +1865,15 @@
     "@types/react-dom" "^18.0.0"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2d8c5ecf92f21e0badb194a9a3e2bb06a8460047
 "@testing-library/user-event@^14.5.1":
   version "14.5.1"
   resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-14.5.1.tgz#27337d72046d5236b32fd977edee3f74c71d332f"
   integrity sha512-UCcUKrUYGj7ClomOo2SpNVvx4/fkd/2BbIHDCle8A0ax+P3bU7yJwDBDrS6ZwdTMARWTGODX1hEsCcO+7beJjg==
+<<<<<<< HEAD
+=======
 =======
 "@testing-library/user-event@^13.2.1":
   version "13.5.0"
@@ -1877,6 +1882,7 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 >>>>>>> 1c8ddf76e932448316dee37f87ef875a6249e2ab
+>>>>>>> 2d8c5ecf92f21e0badb194a9a3e2bb06a8460047
 
 "@tootallnate/once@1":
   version "1.1.2"
